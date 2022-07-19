@@ -1,0 +1,16 @@
+# Directories
+.vs/
+.vscode/
+bin/
+bin-intermediate/
+reference/
+
+# Files
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.com
+*.pub
+KdTree/src/_2dTreeTest.cpp
+
