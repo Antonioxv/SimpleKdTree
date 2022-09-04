@@ -4,7 +4,7 @@ using std::vector;
 
 
 namespace Kdtree {
-	static const double DOUBLE_INFINITY = std::numeric_limits<double>::infinity();
+	const inline double DOUBLE_INFINITY = std::numeric_limits<double>::infinity();
 
 	enum class SPLIT_AXIS {
 		AXIS_X = 0,
